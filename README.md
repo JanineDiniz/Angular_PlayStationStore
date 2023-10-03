@@ -1,4 +1,4 @@
-<h1 align="center"> Website Cheesecake </h1>
+<h1 align="center"> PlayStation Store </h1>
 
 <p align="center">
 Projeto do Bootcamp Santander - Fullstack Java + Angular
